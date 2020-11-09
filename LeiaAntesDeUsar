@@ -1,0 +1,5 @@
+- para compilar usar javac *.javac
+- para executar usar java VM
+- para rodar programas, usar a opcao 2
+- apos um programa estar rodando, voltar para o menu principal e ir para a opcao 1 para ver os programas rodando
+- programas finalizados são mostrados automaticamente na tela apos sua conclusao
