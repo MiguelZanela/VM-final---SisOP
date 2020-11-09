@@ -31,7 +31,7 @@ public class Shell extends Thread {
 		menu3 = true;
 		menu4 = true;
 		console = false;
-		verOs = true;		
+		verOs = false;		
 	}
 
 	//converte a entrada para inteiro e envia esse inteiro para verificaracao de cada menu
